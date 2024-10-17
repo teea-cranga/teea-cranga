@@ -1,4 +1,5 @@
-![alt text](https://www.codewars.com/users/teea-cranga/badges/large)
+![alt text](https://www.codewars.com/users/teea-cranga/badges/small)
+##### (mainly I do SQL problems)
 <!--
 **teea-cranga/teea-cranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
